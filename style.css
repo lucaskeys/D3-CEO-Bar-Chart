@@ -1,0 +1,75 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.bar:hover {
+  fill: #004D40;
+}
+
+.sort .btn {
+  border-radius: 0;
+}
+
+.container {
+  padding-top: 4%;
+}
+
+
+.jumbotron {
+  width: 100%;
+  background-color: #616161;
+  color: white;
+  margin-bottom: 10%;
+}
+
+.description {
+  float: left;
+}
+
+.y.axis, .x.axis {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #D4D8DA;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+.x path {
+	display: none;
+}
+
+.bar {
+  fill: #1DE9B6;
+}
+
+.sort {
+  margin-top: 20px;
+}
+
+.sort .btn {
+  height: 40px;
+  
+}
+
+.toolTip {
+  pointer-events: none !important;
+	position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: #ffffff;
+  border: 1px solid #6F257F;
+  padding: 14px;
+  text-align: center;
+  opacity: 0.9;
+}
+.bottom-text {
+  margin-bottom: 10%;
+}
+
+#filterselect {
+  height: 30px;
+}

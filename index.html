@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="sample.js"></script>
+    <title></title>
+  </head>
+  <body>
+
+    <div class="jumbotron text-center rounded-0 mb-4">
+        <h3 class="display-5 m-4">Highest-Paid CEOs</h3>
+        <p class=text-center pl-5 pr-5">
+              In 2016, CEOs of S&P 500 Index companies received, on average, $13.1 million in total compensation, according to the AFL-CIO’s analysis of available data. In contrast, production and nonsupervisory workers earned only $37,632, on average, in 2016—a CEO-to-worker pay ratio of 347 to 1
+        </p>
+            <hr class="my-4">
+            <p>Data taken from: The American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) </p>
+            <p class="lead">
+              <a class="btn btn-primary btn-md rounded-1" href="https://aflcio.org/paywatch/highest-paid-ceos" role="button">Source</a>
+            </p>
+          </div>
+          <div class="container">
+          <div class="menu d-inline">
+            <span class="ml-1">Filter by Industry:  </span><select id="filterselect">
+              <option value="all" selected>All</option>
+              <option value="fin">Finance/Insurance</option>
+              <option value="man">Manufacturing</option>
+              <option value="con">Construction</option>
+              <option value="trans">Transportation/Communications/Gas/Electric</option>
+            </select>
+            <div class="sort border-5"></div>
+            <div class="svg"></div>
+            <hr />
+          </div>
+        <p class="bottom-text">Decades of economic policies that favor Wall Street and corporate CEOs have created an economy that is dangerously out of balance. Corporate executives continue to line their pockets with our labor and ensure the rules are written to favor them. We cannot allow corporate greed to grow unchecked. We cannot allow the interests of the rich and powerful to dictate policies that have such profound effects on working families.</p>
+    </div>
+    </body>
+</html>

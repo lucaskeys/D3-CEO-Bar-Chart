@@ -1,0 +1,41 @@
+name,company,year,compensation,industry,code,key
+Lyndon R. Rive,SolarCity Corporation,2015,"77,318,016",construction,con,1
+Stuart Miller,Lennar Corporation,2016,"19,225,403",construction,con,2
+Philip K. Asherman,Chicago Bridge & Iron Company N.V.,2016,"13,080,888",construction,con,3
+Ronald N. Tutor,Tutor Perini Corporation,2016,"12,954,885",construction,con,4
+Douglas C. Yearley,Toll Brothers,2016,"12,183,878",construction,con,5
+David V. Auld,D.R. Horton,2016,"9,565,867",construction,con,6
+Larry T. Nicholson,CalAtlantic Group,2016,"9,564,699",construction,con,7
+Steven J. Demetriou,Jacobs Engineering Group,2016,"9,497,413",construction,con,8
+Jeffrey T. Mezger,KB Home,2016,"8,956,859",construction,con,9,
+Christopher J. Klein,Fortune Brands Home & Security,2016,"8,897,622",construction,con,10
+Mario J. Gabelli,Gamco Investors,2016,"75,965,266",finance,fin,11
+Gregory C. Case,Aon,2015,"29,735,220",finance,fin,12
+John Haley,Willis Towers Watson Public Limited Company,2016,"28,846,121",finance,fin,13
+Bruce Lucas,Heritage Insurance Holdings,2015,"27,263,997",finance,fin,14
+James Dimon,J P Morgan Chase & Co,2016,"27,236,892",finance,fin,15
+Laurence D. Fink,BlackRock,2016,"25,472,831",finance,fin,16
+Sean P. Downes,Universal Insurance Holdings,2015,"25,032,334",finance,fin,17
+William J. Mcmorrow,Kennedy-Wilson Holdings,2015,"24,806,979",finance,fin,18
+John R. Strangfeld,Prudential Financial,2016,"24,444,255",finance,fin,19
+Evan G. Greenberg,Chubb,2016,"24,419,486",finance,fin,20
+Fabrizio Freda,Estee Lauder Companies,2016,"48,369,401",manufacturing,man,21
+Mark G. Parker,Nike,2016,"47,615,302",manufacturing,man,22
+Margaret C. Whitman,Hewlett Packard Enterprise Company,2016,"35,564,351",manufacturing,man,23
+V.M. Rometty,International Business Machines Corporation,2016,"32,695,699",manufacturing,man,24
+Bernard J. Duroc-Danner,Weatherford International,2016,"31,488,270",manufacturing,man,25
+Indra K. Nooyi,Pepsico,2016,"29,783,416",manufacturing,man,26
+Dion J. Weisler,HP,2016,"28,696,267",manufacturing,man,27
+Leonard S. Schleifer,Regeneron Pharmaceuticals,2016,"28,337,520",manufacturing,man,28
+Jeffrey M. Leiden,Vertex Pharmaceuticals,2015,"28,099,826",manufacturing,man,29
+James J. Peterson,Microsemi Corporation,2016,"27,958,781",manufacturing,man,30
+Thomas M. Rutledge,Charter Communications,2016,"98,515,727","transportation, communications, electric, gas",trans,31
+Dara Khosrowshahi,Expedia,2015,"94,603,552","transportation, communications, electric, gas",trans,32
+Philippe P. Dauman,Viacom,2016,"93,021,795","transportation, communications, electric, gas",trans,33
+Leslie Moonves,CBS Corporation,2016,"69,550,657","transportation, communications, electric, gas",trans,34
+Robert A. Iger,Walt Disney Company,2016,"43,882,396","transportation, communications, electric, gas",trans,35
+David M. Zaslav,Discovery Communications,2016,"37,192,354","transportation, communications, electric, gas",trans,36
+Brian L. Roberts,Comcast Corporation,2016,"32,963,491","transportation, communications, electric, gas",trans,37
+Jeffrey L. Bewkes,Time Warner,2015,"31,493,211","transportation, communications, electric, gas",trans,38
+Mr. Joshua W. Sapan,AMC Networks,2016,"30,485,596","transportation, communications, electric, gas",trans,39
+Kenneth W. Lowe,Scripps Networks Interactive,2016,"28,784,240","transportation, communications, electric, gas",trans,40
