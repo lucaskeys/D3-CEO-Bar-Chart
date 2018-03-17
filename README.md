@@ -9,8 +9,9 @@ _**Luke Keysboe**_
 _Clone the repository_
 _open the index.html file_
 
-Glitch link - live: https://fortunate-ellipse.glitch.me/ 
-Glitch link - code: https://glitch.com/edit/#!/fortunate-ellipse?path=script.js:66:29
+1. Glitch link - live: https://fortunate-ellipse.glitch.me/ 
+
+2. Glitch link - code: https://glitch.com/edit/#!/fortunate-ellipse?path=script.js:66:29
 
 ## Known Bugs
 
