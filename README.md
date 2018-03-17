@@ -1,4 +1,4 @@
-# _D3 Bar Chart_
+# _D3 CEO Interactive Bar Chart_ 
 
 _Sortable bar chart of top earning CEO's by industry_
 
